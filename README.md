@@ -1,2 +1,2 @@
 # ReactJS
-Aprendendo ReactJs
+Meu primeiro estudo em ReactJs
